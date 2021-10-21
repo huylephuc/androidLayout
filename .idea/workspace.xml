@@ -2,7 +2,14 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="Nexus 5X" />
+        <device id="Nexus 10" />
+        <device id="Nexus 6P" />
+        <device id="Nexus 7" />
+        <device id="pixel_5" />
+        <device id="pixel_2" />
+      </config>
     </shared>
   </component>
   <component name="AutoImportSettings">
@@ -15,7 +22,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Vp\.android\avd\Pixel_4a_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Vp\.android\avd\Nexus_10_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
